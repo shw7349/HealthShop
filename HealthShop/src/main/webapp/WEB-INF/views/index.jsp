@@ -21,13 +21,7 @@
     <link rel="stylesheet" href="assets/css/owl-carousel.css">
 
     <link rel="stylesheet" href="assets/css/lightbox.css">
-    <!--
 
-    TemplateMo 571 Hexashop
-
-    https://templatemo.com/tm-571-hexashop
-
-    -->
 </head>
 <body>
 
@@ -46,7 +40,7 @@
 <header class="header-area header-sticky">
     <div class="container">
         <div class="row">
-            <div class="col-12">
+            <li class="col-12">
                 <nav class="main-nav">
                     <!-- ***** Logo Start ***** -->
                     <a href="index.html" class="logo">
@@ -55,17 +49,18 @@
                     <!-- ***** Logo End ***** -->
                     <!-- ***** Menu Start ***** -->
                     <ul class="nav">
-                        <li class="scroll-to-section"><a href="#top" class="active">Home</a></li>
-                        <li class="scroll-to-section"><a href="#men">Men's</a></li>
-                        <li class="scroll-to-section"><a href="#women">Women's</a></li>
-                        <li class="scroll-to-section"><a href="#kids">Kid's</a></li>
+                        <li class="scroll-to-section"><a href="#home" class="active">Home</a></li>
+                        <li class="scroll-to-section"><a href="#gallery">팔 운동</a></li>
+                        <li class="scroll-to-section"><a href="#women">어깨 운동</a></li>
+                        <li class="scroll-to-section"><a href="#kids">등 운동</a></li>
+                        <li class="scroll-to-section"><a href="#kids">가슴 운동</a></li>
+                        <li class="scroll-to-section"><a href="#kids">하체 운동</a></li>
                         <li class="submenu">
                             <a href="javascript:;">Pages</a>
                             <ul>
-                                <li><a href="about.html">About Us</a></li>
-                                <li><a href="products.html">Products</a></li>
-                                <li><a href="single-product.html">Single Product</a></li>
-                                <li><a href="contact.html">Contact Us</a></li>
+                                <li><a href="about.html">헬스 몰</a></li>
+                                <li><a href="products.html">헬스 게시판</a></li>
+                                <li><a href="single-product.html">주변 헬스장 찾기</a></li>
                             </ul>
                         </li>
                         <li class="submenu">
@@ -78,6 +73,9 @@
                             </ul>
                         </li>
                         <li class="scroll-to-section"><a href="#explore">Explore</a></li>
+                        <li class="scroll-to-section">
+                          <a href="#">로그인</a>
+                        </li>
                     </ul>
                     <a class='menu-trigger'>
                         <span>Menu</span>
@@ -98,10 +96,10 @@
                 <div class="left-content">
                     <div class="thumb">
                         <div class="inner-content">
-                            <h4>We Are Hexashop</h4>
-                            <span>Awesome, clean &amp; creative HTML5 Template</span>
+                            <h4>헬린이</h4>
+                            <span>전국의 헬린이들은 모여라</span>
                             <div class="main-border-button">
-                                <a href="#">Purchase Now!</a>
+                                <a href="#">기본 운동 루틴 소개</a>
                             </div>
                         </div>
                         <img src="assets/images/left-banner-image.jpg" alt="">
@@ -115,39 +113,19 @@
                             <div class="right-first-image">
                                 <div class="thumb">
                                     <div class="inner-content">
-                                        <h4>Women</h4>
-                                        <span>Best Clothes For Women</span>
+                                        <h4>운동 고수</h4>
+                                        <span>운동 고수들은 모여라</span>
                                     </div>
                                     <div class="hover-content">
                                         <div class="inner">
-                                            <h4>Women</h4>
-                                            <p>Lorem ipsum dolor sit amet, conservisii ctetur adipiscing elit incid.</p>
+                                            <h4>운동 고수</h4>
+                                            <p>운동 고수들의 루틴 고유</p>
                                             <div class="main-border-button">
-                                                <a href="#">Discover More</a>
+                                                <a href="#">루틴 공유 바로가기</a>
                                             </div>
                                         </div>
                                     </div>
                                     <img src="assets/images/baner-right-image-01.jpg">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-6">
-                            <div class="right-first-image">
-                                <div class="thumb">
-                                    <div class="inner-content">
-                                        <h4>Men</h4>
-                                        <span>Best Clothes For Men</span>
-                                    </div>
-                                    <div class="hover-content">
-                                        <div class="inner">
-                                            <h4>Men</h4>
-                                            <p>Lorem ipsum dolor sit amet, conservisii ctetur adipiscing elit incid.</p>
-                                            <div class="main-border-button">
-                                                <a href="#">Discover More</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <1img src="assets/images/baner-right-image-02.jpg">
                                 </div>
                             </div>
                         </div>
